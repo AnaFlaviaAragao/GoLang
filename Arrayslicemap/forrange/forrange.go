@@ -14,7 +14,7 @@ func main() {
 		fmt.Println(num)
 	}
 
-	for num := range numeros { //Pega os indices
+	for num := range numeros { //Acessa o indices
 		//fmt.Printf("%d\n", num)
 		fmt.Println(num)
 	}
